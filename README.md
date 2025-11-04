@@ -59,6 +59,22 @@ My passion lies in leveraging AI to create efficient, user-friendly solutions th
 
 ---
 
+### NewsProof
+**Description**: An AI-powered writing assistant that provides professional-grade editing and feedback for articles, analyzing writing across key dimensions to enhance clarity, structure, and style.
+
+**Use Case**: Essential for journalists, bloggers, content creators, and writers who want to elevate their work with professional editing insights and actionable improvement suggestions.
+
+**Key Features:**
+- Professional-grade editing and feedback
+- Multi-dimensional writing analysis
+- Clarity and structure optimization
+- Style enhancement recommendations
+- Actionable insights for content improvement
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/newsproof-8a11e679)
+
+---
+
 ### YouTube Video Schema Generator  
 **Description**: Automatically generates Schema.org VideoObject markup for YouTube video embeds to improve SEO performance and search visibility.
 
