@@ -111,12 +111,12 @@ My passion lies in leveraging AI to create efficient, user-friendly solutions th
 **Use Case**: Players, coaches, and referees can get instant, accurate rule clarifications during games or training sessions, ensuring fair play and proper understanding.
 
 **Key Features:**
-- Official 2025 rulebook integration
+- Official 2026 rulebook integration
 - Expert rule interpretation
 - Quick rule lookup and clarification
 - Document-based knowledge system
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/usa-pickleball-rules-assistant-d264df31)
+[🔗 Try it out](https://app.mindstudio.ai/agents/usapb-rules-assistant-d264df31)
 
 ---
 
